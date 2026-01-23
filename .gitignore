@@ -1,5 +1,5 @@
-/node_packages/.*
-/node_modules/.*
+/node_packages/
+/node_modules/
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,react,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,react,node
