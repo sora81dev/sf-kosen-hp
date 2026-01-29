@@ -131,7 +131,7 @@ export default function LT1Register() {
                             type="text"
                             value={discordId}
                             onChange={(e) => setDiscordId(e.target.value)}
-                            placeholder="例: mafuyu#1234 または 123456789012345678"
+                            placeholder="例: mafuyu7se または 123456789012345678"
                             className="w-full rounded-xl border border-gray-200 px-4 py-3 text-sm focus:border-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-500/20"
                         />
                         <p className="mt-1 text-xs text-gray-500">連絡用に使用することがあります</p>
